@@ -38,3 +38,4 @@ Pesquisa de 29/09/2026. Reavaliar a cada ~3 meses: a área muda rápido.
 | Rede neural com agente, autoresearch | [05-redes-neurais.md](referencias/05-redes-neurais.md) |
 | Qual skill instalar em qual projeto | [06-projetos-e-skills.md](referencias/06-projetos-e-skills.md) |
 | Refazer a pesquisa / prompt pronto | [prompts/pesquisa-ia.md](prompts/pesquisa-ia.md) |
+| Levar para um repositório novo | `bash kit/novo-repo.sh <pasta>` ou `kit\novo-repo.ps1 <pasta>` |
